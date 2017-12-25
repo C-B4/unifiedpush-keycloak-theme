@@ -10,7 +10,7 @@
 
 	<artifactId>unifiedpush-keycloak-theme</artifactId>
 	<version>1.2.7-SNAPSHOT</version>
-	<name>AeroBase Keycloak Theme</name>
+	<name>AeroGear Keycloak Theme</name>
 	<build>
 		<finalName>unifiedpush-keycloak-theme</finalName>
 		<plugins>
